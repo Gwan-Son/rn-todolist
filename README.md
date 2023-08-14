@@ -1,4 +1,4 @@
 # ToDoList
 
 React-Native expo ToDoList Project
-23.08.14 ¿Ï
+23.08.14 ì™„ë£Œ
